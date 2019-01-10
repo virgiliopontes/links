@@ -16,5 +16,9 @@ Links de Plugins e Tecnologias
  #### - [TORM PHP](https://imasters.com.br/back-end/torm-um-orm-simples-para-php)
  #### - [DOCTRINE PHP](https://www.webdevbr.com.br/instalando-o-doctrine-orm-como-criar-um-crud-com-php)
  
+### JavaScript 
+ #### - [Criar Eventos Personalizados](http://wbruno.com.br/javascript-puro/como-criar-eventos-personalizados-customevents-no-javascript/)
+ #### - [Manipulandos Eventos](http://braziljs.github.io/eloquente-javascript/chapters/manipulando-eventos/)
+ 
 ### Markdown
  #### - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
