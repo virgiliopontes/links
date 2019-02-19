@@ -5,6 +5,8 @@ Links de Plugins e Tecnologias
  #### - [Auto Where SQL](https://github.com/virgiliopontes/autowheremysql): 
  #### - [MySQL Wizard](https://github.com/virgiliopontes/mysqlwizard);
  #### - [Blade](https://laravel.com/docs/5.7/blade)
+ #### - [PHPStan](https://github.com/phpstan/phpstan)
+ * [PHPStan: Find Bugs In Your Code Without Writing Tests!](https://medium.com/@ondrejmirtes/phpstan-2939cd0ad0e3)
  
 ## Projetos
 ### PHP
