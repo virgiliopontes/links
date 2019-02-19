@@ -17,6 +17,8 @@ Links de Plugins e Tecnologias
  #### - [NHibernate .NET](https://www.devmedia.com.br/introducao-ao-nhibernate-framework-para-mapeamento-objeto-relacional/28671)
  #### - [TORM PHP](https://imasters.com.br/back-end/torm-um-orm-simples-para-php)
  #### - [DOCTRINE PHP](https://www.webdevbr.com.br/instalando-o-doctrine-orm-como-criar-um-crud-com-php)
+ #### - [PHP 5.4 - Traits](http://blog.thiagobelem.net/php-5-4-traits)
+ #### - [PHP Traits Manual](http://php.net/manual/pt_BR/language.oop5.traits.php)
  
 ### JavaScript 
  #### - [Criar Eventos Personalizados](http://wbruno.com.br/javascript-puro/como-criar-eventos-personalizados-customevents-no-javascript/)
